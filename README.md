@@ -1,2 +1,4 @@
 # AI
-Edunet and IBM Skills Build - AIML internship project 
+Edunet and IBM Skills Build 
+<br>
+AIML internship project 
